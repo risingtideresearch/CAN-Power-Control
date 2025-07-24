@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|83687500|146192000|8ea268c4-04d7-4c1f-be73-6ec4af520547|00000000-0000-0000-0000-000000000000",
+          "Removed cutout to combine with another footprint"
+        ]
+      ],
       "meta": {
         "version": 2
       },
